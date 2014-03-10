@@ -1,0 +1,15 @@
+<head>
+	<title>meteor-publish-composite-test</title>
+</head>
+
+<body>
+	{{> hello}}
+</body>
+
+<template name="hello">
+	<ul>
+		{{#each posts}}
+			<li>{{title}} -- {{author.profile.name}}</li>
+		{{/each}}
+	</ul>
+</template>
