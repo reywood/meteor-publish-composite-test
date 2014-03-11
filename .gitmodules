@@ -1,0 +1,3 @@
+[submodule "packages/publish-composite"]
+	path = packages/publish-composite
+	url = git@github.com:reywood/meteor-publish-composite.git
