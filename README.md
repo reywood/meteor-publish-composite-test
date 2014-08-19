@@ -1,11 +1,11 @@
-Meteor site for testing the [publish-composite](https://github.com/reywood/meteor-publish-composite) meteorite package
+Meteor site for testing the [publish-composite](https://github.com/englue/meteor-publish-composite) meteorite package
 
 ---------------------------------------
 
 To clone and set up for the first time:
 
 ```sh
-$ git clone https://github.com/reywood/meteor-publish-composite-test.git
+$ git clone https://github.com/englue/meteor-publish-composite-test.git
 $ cd meteor-publish-composite-test
 $ git submodule update --init --recursive packages/publish-composite
 $ cd packages/publish-composite
