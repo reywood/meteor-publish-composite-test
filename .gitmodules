@@ -1,3 +1,0 @@
-[submodule "packages/publish-composite"]
-	path = packages/publish-composite
-	url = git@github.com:englue/meteor-publish-composite.git
