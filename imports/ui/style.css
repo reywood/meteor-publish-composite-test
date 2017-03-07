@@ -1,0 +1,15 @@
+body {
+    margin: 1em auto;
+    max-width: 800px;
+}
+
+code {
+    background-color: #eee;
+    border: 1px solid #ccc;
+    border-radius: .5em;
+    display: block;
+    font-family: Courier New, sans-serif;
+    font-weight: bold;
+    margin: 1em;
+    padding: 1em;
+}
