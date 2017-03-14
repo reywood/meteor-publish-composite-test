@@ -1,6 +1,6 @@
-import { Meteor } from 'meteor/meteor';
+import { publishComposite } from 'meteor/reywood:publish-composite';
 
-Meteor.publishComposite('throwError', {
+publishComposite('throwError', {
     find: function find() {
         throw new Error('This is a test error');
     },
